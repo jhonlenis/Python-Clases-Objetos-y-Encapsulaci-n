@@ -243,75 +243,75 @@ El reto `prestamos_equipo.py` implementa un sistema completo de gestión de pré
 
 ---
 
-# Ejemplos de Ejecución (Capturas)
+# Ejemplos de Ejecución en Consola (Capturas de Terminal)
 
-## Ejecución de Atributos
+## Ejecución de Atributos en Terminal
 
 ### Código
 
 ![Código Atributos](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202414.png)
 
-### Resultado
+### Salida en Consola
 
 ![Resultado Atributos](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202421.png)
 
 ---
 
-## Ejecución de Constructores
+## Ejecución de Constructores en Terminal
 
 ### Código
 
 ![Código Constructores](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202599.png)
 
-### Resultado
+### Salida en Consola
 
 ![Resultado Constructores](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202604.png)
 
 ---
 
-## Ejecución de Métodos
+## Ejecución de Métodos en Terminal
 
 ### Código
 
 ![Código Métodos](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202718.png)
 
-### Resultado
+### Salida en Consola
 
 ![Resultado Métodos](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202723.png)
 
 ---
 
-## Ejecución de Encapsulación
+## Ejecución de Encapsulación en Terminal
 
 ### Código
 
 ![Código Encapsulación](images/Encapsulacion/Atributos_Privados/Captura%20de%20pantalla%202026-05-06%20203017.png)
 
-### Resultado
+### Salida en Consola
 
 ![Resultado Encapsulación](images/Encapsulacion/Atributos_Privados/Captura%20de%20pantalla%202026-05-06%20203024.png)
 
 ---
 
-## Ejecución de Getters y Setters
+## Ejecución de Getters y Setters en Terminal
 
 ### Código
 
 ![Código Getters y Setters](images/Encapsulacion/Getters_Setters/Captura%20de%20pantalla%202026-05-06%20203106.png)
 
-### Resultado
+### Salida en Consola
 
 ![Resultado Getters y Setters](images/Encapsulacion/Getters_Setters/Captura%20de%20pantalla%202026-05-06%20203112.png)
 
 ---
 
-## Ejecución de Métodos Privados
+## Ejecución de Métodos Privados en Terminal
 
 ### Código
 
 ![Código Métodos Privados](images/Encapsulacion/Metodos_Privados/Captura%20de%20pantalla%202026-05-06%20203145.png)
 
-### Resultado
+### Salida en Consola
 
 ![Resultado Métodos Privados](images/Encapsulacion/Metodos_Privados/Captura%20de%20pantalla%202026-05-06%20203151.png)
 
