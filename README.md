@@ -300,32 +300,48 @@ Todas las imágenes utilizadas en este README corresponden únicamente a salidas
 ### Atributos
 
 ![Salida Terminal](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202414.png)
+
 ![Salida Terminal](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202421.png)
+
 ![Salida Terminal](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202429.png)
+
 ![Salida Terminal](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202438.png)
+
 ![Salida Terminal](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202446.png)
+
 ![Salida Terminal](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202455.png)
 
 ---
 
 ### Constructores
 
-![Salida Terminal](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202599.png)
+![Salida Terminal](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202559.png)
+
 ![Salida Terminal](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202604.png)
+
 ![Salida Terminal](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202611.png)
+
 ![Salida Terminal](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202618.png)
+
 ![Salida Terminal](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202623.png)
+
 ![Salida Terminal](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202631.png)
+
 
 ---
 
 ### Métodos
 
 ![Salida Terminal](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202718.png)
+
 ![Salida Terminal](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202723.png)
+
 ![Salida Terminal](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202733.png)
+
 ![Salida Terminal](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202739.png)
+
 ![Salida Terminal](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202748.png)
+
 ![Salida Terminal](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202755.png)
 
 ---
@@ -333,8 +349,11 @@ Todas las imágenes utilizadas en este README corresponden únicamente a salidas
 ### Encapsulación - Atributos Privados
 
 ![Salida Terminal](images/Encapsulacion/Atributos_Privados/Captura%20de%20pantalla%202026-05-06%20203017.png)
+
 ![Salida Terminal](images/Encapsulacion/Atributos_Privados/Captura%20de%20pantalla%202026-05-06%20203024.png)
+
 ![Salida Terminal](images/Encapsulacion/Atributos_Privados/Captura%20de%20pantalla%202026-05-06%20203029.png)
+
 ![Salida Terminal](images/Encapsulacion/Atributos_Privados/Captura%20de%20pantalla%202026-05-06%20203038.png)
 
 ---
@@ -342,16 +361,22 @@ Todas las imágenes utilizadas en este README corresponden únicamente a salidas
 ### Encapsulación - Getters y Setters
 
 ![Salida Terminal](images/Encapsulacion/Getters_Setters/Captura%20de%20pantalla%202026-05-06%20203106.png)
+
 ![Salida Terminal](images/Encapsulacion/Getters_Setters/Captura%20de%20pantalla%202026-05-06%20203112.png)
+
 ![Salida Terminal](images/Encapsulacion/Getters_Setters/Captura%20de%20pantalla%202026-05-06%20203120.png)
+
 
 ---
 
 ### Encapsulación - Métodos Privados
 
 ![Salida Terminal](images/Encapsulacion/Metodos_Privados/Captura%20de%20pantalla%202026-05-06%20203145.png)
+
 ![Salida Terminal](images/Encapsulacion/Metodos_Privados/Captura%20de%20pantalla%202026-05-06%20203151.png)
+
 ![Salida Terminal](images/Encapsulacion/Metodos_Privados/Captura%20de%20pantalla%202026-05-06%20203158.png)
+
 ![Salida Terminal](images/Encapsulacion/Metodos_Privados/Captura%20de%20pantalla%202026-05-06%20203205.png)
 
 ---
@@ -359,8 +384,11 @@ Todas las imágenes utilizadas en este README corresponden únicamente a salidas
 ### Encapsulación - Propiedades
 
 ![Salida Terminal](images/Encapsulacion/Propiedades/Captura%20de%20pantalla%202026-05-06%20203236.png)
+
 ![Salida Terminal](images/Encapsulacion/Propiedades/Captura%20de%20pantalla%202026-05-06%20203242.png)
+
 ![Salida Terminal](images/Encapsulacion/Propiedades/Captura%20de%20pantalla%202026-05-06%20203249.png)
+
 ![Salida Terminal](images/Encapsulacion/Propiedades/Captura%20de%20pantalla%202026-05-06%20203255.png)
 
 ---
@@ -380,56 +408,24 @@ Todas las imágenes utilizadas en este README corresponden únicamente a salidas
 ### Reto
 
 ![Salida Terminal](images/Reto/Captura%20de%20pantalla%202026-05-06%20204403.png)
+
 ![Salida Terminal](images/Reto/Captura%20de%20pantalla%202026-05-06%20204417.png)
+
 ![Salida Terminal](images/Reto/Captura%20de%20pantalla%202026-05-06%20204516.png)
+
 ![Salida Terminal](images/Reto/Captura%20de%20pantalla%202026-05-06%20204526.png)
+
 ![Salida Terminal](images/Reto/Captura%20de%20pantalla%202026-05-06%20204537.png)
+
 ![Salida Terminal](images/Reto/Captura%20de%20pantalla%202026-05-06%20204550.png)
+
 ![Salida Terminal](images/Reto/Captura%20de%20pantalla%202026-05-06%20204600.png)
-
----
-
-# Cómo Ejecutar el Proyecto
-
-## Requisitos
-
-* Python 3 instalado.
-* Visual Studio Code.
-* Extensión Markdown Preview Enhanced.
-
----
-
-## Ejecución
-
-### Ejecutar un archivo
-
-```bash
-python nombre_archivo.py
-```
-
-### Ejemplo
-
-```bash
-python Atributos.py
-```
-
----
-
-# Tecnologías Utilizadas
-
-* Python 3
-* Visual Studio Code
-* Markdown Preview Enhanced
 
 ---
 
 # Reflexión Personal
 
-Este proyecto me enseñó que la programación robusta se basa en dos pilares: orden y protección.
-
-Gracias a la encapsulación, comprendí que proteger los datos internos de una clase mediante atributos privados y propiedades no es una restricción, sino una garantía de que el sistema no fallará por manipulaciones externas incorrectas.
-
-Además, integrar estructuras como diccionarios y tuplas me permitió transformar un flujo de datos complejo en una herramienta organizada. Aprendí que la claridad visual en la interfaz es tan vital como la lógica del código; si la información no es legible, el sistema no es útil. En definitiva, este proceso me capacitó para escribir código más profesional, escalable y centrado en el usuario.
+Este proyecto me enseñó que la programación robusta se basa en dos pilares: orden y protección. Gracias a la encapsulación, comprendí que proteger los datos internos de una clase mediante atributos privados y propiedades no es una restricción, sino una garantía de que el sistema no fallará por manipulaciones externas incorrectas. Además, integrar estructuras como diccionarios y tuplas me permitió transformar un flujo de datos complejo en una herramienta organizada. Aprendí que la claridad visual en la interfaz es tan vital como la lógica del código; si la información no es legible, el sistema no es útil. En definitiva, este proceso me capacitó para escribir código más profesional, escalable y centrado en el usuario.
 ---
 
 # Conclusión
