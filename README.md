@@ -245,11 +245,9 @@ El reto `prestamos_equipo.py` implementa un sistema completo de gestión de pré
 
 # Ejemplos de Ejecución en Consola (Capturas de Terminal)
 
+Todas las imágenes utilizadas en este README corresponden únicamente a salidas de ejecución en la terminal de Visual Studio Code. Las capturas muestran los resultados obtenidos al ejecutar los diferentes archivos Python relacionados con clases, objetos y encapsulación.
+
 ## Ejecución de Atributos en Terminal
-
-### Código
-
-![Código Atributos](images/Clase_objeto/Atributo/Captura%20de%20pantalla%202026-05-06%20202414.png)
 
 ### Salida en Consola
 
@@ -259,10 +257,6 @@ El reto `prestamos_equipo.py` implementa un sistema completo de gestión de pré
 
 ## Ejecución de Constructores en Terminal
 
-### Código
-
-![Código Constructores](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202599.png)
-
 ### Salida en Consola
 
 ![Resultado Constructores](images/Clase_objeto/Constructor/Captura%20de%20pantalla%202026-05-06%20202604.png)
@@ -270,10 +264,6 @@ El reto `prestamos_equipo.py` implementa un sistema completo de gestión de pré
 ---
 
 ## Ejecución de Métodos en Terminal
-
-### Código
-
-![Código Métodos](images/Clase_objeto/Metodo/Captura%20de%20pantalla%202026-05-06%20202718.png)
 
 ### Salida en Consola
 
@@ -283,10 +273,6 @@ El reto `prestamos_equipo.py` implementa un sistema completo de gestión de pré
 
 ## Ejecución de Encapsulación en Terminal
 
-### Código
-
-![Código Encapsulación](images/Encapsulacion/Atributos_Privados/Captura%20de%20pantalla%202026-05-06%20203017.png)
-
 ### Salida en Consola
 
 ![Resultado Encapsulación](images/Encapsulacion/Atributos_Privados/Captura%20de%20pantalla%202026-05-06%20203024.png)
@@ -295,10 +281,6 @@ El reto `prestamos_equipo.py` implementa un sistema completo de gestión de pré
 
 ## Ejecución de Getters y Setters en Terminal
 
-### Código
-
-![Código Getters y Setters](images/Encapsulacion/Getters_Setters/Captura%20de%20pantalla%202026-05-06%20203106.png)
-
 ### Salida en Consola
 
 ![Resultado Getters y Setters](images/Encapsulacion/Getters_Setters/Captura%20de%20pantalla%202026-05-06%20203112.png)
@@ -306,10 +288,6 @@ El reto `prestamos_equipo.py` implementa un sistema completo de gestión de pré
 ---
 
 ## Ejecución de Métodos Privados en Terminal
-
-### Código
-
-![Código Métodos Privados](images/Encapsulacion/Metodos_Privados/Captura%20de%20pantalla%202026-05-06%20203145.png)
 
 ### Salida en Consola
 
@@ -353,24 +331,14 @@ python Atributos.py
 
 # Reflexión Personal
 
-Durante el desarrollo de este proyecto logré comprender mucho mejor cómo funciona la Programación Orientada a Objetos en Python. Antes de realizar estos ejercicios conocía la teoría básica de las clases y objetos, pero al implementar ejemplos prácticos entendí realmente cómo se utilizan en proyectos reales.
+Este proyecto me enseñó que la programación robusta se basa en dos pilares: orden y protección.
 
-Uno de los aprendizajes más importantes fue comprender la diferencia entre atributos públicos, protegidos y privados. También aprendí cómo funcionan las propiedades y cómo usar getters y setters para validar información sin permitir modificaciones incorrectas.
+Gracias a la encapsulación, comprendí que proteger los datos internos de una clase mediante atributos privados y propiedades no es una restricción, sino una garantía de que el sistema no fallará por manipulaciones externas incorrectas.
 
-Otro aspecto importante fue aprender a organizar mejor el código. Antes acostumbraba escribir funciones sueltas, pero ahora entiendo cómo dividir responsabilidades dentro de clases y métodos, logrando un código más limpio y fácil de mantener.
-
-El reto más complicado fue la encapsulación y el manejo de métodos privados, ya que al inicio resultaba difícil entender por qué era necesario restringir el acceso a ciertos atributos. Sin embargo, después de implementar ejemplos como las cuentas bancarias y el sistema de préstamos, comprendí que la encapsulación ayuda a proteger la integridad de los datos.
-
-También tuve dificultades iniciales con las propiedades y decoradores como `@property`, pero después de practicar entendí cómo permiten controlar el acceso a los atributos de forma elegante.
-
-Finalmente, este proyecto me ayudó a mejorar mis habilidades de lógica de programación, organización de código y buenas prácticas de desarrollo en Python.
+Además, integrar estructuras como diccionarios y tuplas me permitió transformar un flujo de datos complejo en una herramienta organizada. Aprendí que la claridad visual en la interfaz es tan vital como la lógica del código; si la información no es legible, el sistema no es útil. En definitiva, este proceso me capacitó para escribir código más profesional, escalable y centrado en el usuario.
 
 ---
 
 # Conclusión
 
-Este proyecto permitió aplicar de forma práctica los principales conceptos de Programación Orientada a Objetos en Python. A través de ejercicios progresivos se logró comprender la importancia del diseño de clases, los constructores, los métodos y la encapsulación.
-
-Además, se fortalecieron habilidades relacionadas con validación de datos, organización modular y protección de información dentro de los objetos.
-
-La implementación de talleres y retos permitió simular situaciones reales y comprender cómo la Programación Orientada a Objetos facilita la creación de programas más organizados, reutilizables y mantenibles.
+El desarrollo de este sistema permitió integrar con éxito la lógica de negocio con una interfaz de usuario limpia. El uso de encapsulación y propiedades garantizó que los datos sensibles estuvieran protegidos, mientras que la combinación de diccionarios y tuplas ofreció una gestión de inventario eficiente e inmutable. En definitiva, el proyecto demuestra que un código profesional no solo debe ser funcional, sino también seguro, organizado y fácil de interpretar para el usuario final.
